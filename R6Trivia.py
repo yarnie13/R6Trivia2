@@ -104,7 +104,20 @@ qaList = [QA("Sledge - Assault Rifle", "L85A2"
           QA("Nomad - Ability", "Airjab"),
           QA("Kaid - Ability", "Electroclaw"),
           QA("Gridlock - Ability", "Trax Stingers"),
-          QA("Mozzie - Ability", "Pest Launcher")]
+          QA("Mozzie - Ability", "Pest Launcher"),
+          QA("Jackal - Ability", "Eyenox"),
+          QA("Nokk - Ability", 'Hel Presence Reduction'),
+          QA("Warden - Ability", 'Glance Smart Glasses'),
+          QA("Amaru - Ability", "Garra Hook"),
+          QA("Goyo - Ability", "Volcan Shield"),
+          QA("Kali - Ability", "LV Explosive Lance"),
+          QA("Wamai - Ability", "Mag-Net System"),
+          QA("Iana - Ability", "Gemini Replicator"),
+          QA("Oryx - Ability", "Remah Dash"),
+          QA("Ace - Ability", "SELMA Aqua Breacher"),
+          QA("Melusi - Ability", "Banshee Sonic Defense"),
+          QA("Zero - Ability", "Argus Launcher"),
+          QA("Aruni - Ability", "Surya Laser Gate")]
 
 corrCount = 0
 random.shuffle(qaList)
