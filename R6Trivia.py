@@ -6,7 +6,7 @@ class QA:
     self.question = question
     self.corrAnsw = correctAnswer
 
-qaList = [QA("Sledge - Assault Rifle", "L85A2
+qaList = [QA("Sledge - Assault Rifle", "L85A2"
           QA("Thatcher - Assault Rifle", "AR33"),
           QA("Fuze - Assault Rifle", "AK-12"),
           QA("IQ - Assault Rifle (A)", "AUG A2"),
