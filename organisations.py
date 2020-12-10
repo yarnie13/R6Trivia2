@@ -1,5 +1,5 @@
 import time
-organisations = ['sas', 'spetsnaz', 'gsg 9', 'gign', 'fbi swat', 'jtf2', 'navy seals', 'bope', 'sat', 'geo', 'sdu', 'grom', 'smb', 'cbrn', 'gis', 'gsutr', 'gigr', 'sasr', 'jaeger corps', 'secret service', 'apca', 'fuerzas especiales', 'nighthaven', 'reu', 'inkaba task force']
+organisations = ['sas', 'spetsnaz', 'gsg 9', 'gign', 'fbi swat', 'jtf2', 'navy seals', 'bope', 'sat', 'geo', 'sdu', 'grom', 'smb', 'cbrn', 'gis', 'gsutr', 'gigr', 'sasr', 'jaeger corps', 'secret service', 'apca', 'fuerzas especiales', 'nighthaven', 'reu', 'inkaba task force', 'ros']
 score = 0
 attempt = 26
 #max score = 25
